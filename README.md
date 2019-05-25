@@ -1,3 +1,5 @@
+This application works with the "todo_api" node application (in another repository)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
